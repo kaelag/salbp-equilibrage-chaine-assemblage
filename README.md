@@ -1,8 +1,8 @@
-Projet B1 — Équilibrage de chaîne d'assemblage (SALBP)
+Projet B1 : Équilibrage de chaîne d'assemblage (SALBP)
 =======================================================
 
 Groupe : Ilias Kalalou et Kaelan Grall
-EPITA SCIA — Programmation par Contraintes 2026
+EPITA SCIA : Programmation par Contraintes 2026
 
 Couverture du sujet
 -------------------
@@ -18,7 +18,7 @@ Couverture du sujet
 Structure
 ---------
 
-    B1-SALBP-IliasKalalou-KaelanGrall/
+    salbp-equilibrage-chaine-assemblage/
     ├── app.py                    Application Streamlit (5 modes)
     ├── benchmark.py              Module de benchmark batch
     ├── instances/
