@@ -120,3 +120,8 @@ Références
 - Benchmarks publics : https://assembly-line-balancing.de
 - Helgeson W.B., Birnie D.P. (1961) Assembly line balancing using the Ranked Positional Weight technique
 - Pinto P.A., Dannenbring D.G., Khumawala B.M. (1981) Branch and Bound and heuristic procedures for assembly line balancing with paralleling of stations, IJPR
+
+
+## Équipe
+
+Projet réalisé en binôme avec [Ilias Kalalou](https://github.com/iliaskalalou) (EPITA, spécialisation SCIA, cours de Programmation par Contraintes, 2026). Ce dépôt reprend le dossier de notre binôme dans le dépôt de cours, avec son historique ; les commits d'Ilias sont co-signés.
