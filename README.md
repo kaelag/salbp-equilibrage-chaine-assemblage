@@ -1,6 +1,8 @@
 Projet B1 : Équilibrage de chaîne d'assemblage (SALBP)
 =======================================================
 
+[![Tests](https://github.com/kaelag/salbp-equilibrage-chaine-assemblage/actions/workflows/tests.yml/badge.svg)](https://github.com/kaelag/salbp-equilibrage-chaine-assemblage/actions/workflows/tests.yml)
+
 Groupe : Ilias Kalalou et Kaelan Grall
 EPITA SCIA : Programmation par Contraintes 2026
 
